@@ -30,7 +30,7 @@ def test_transformation(path):
     part4=text.find("四、篇章結構")
     part5=text.find("五、閱讀測驗")
     part6=text.find("第貳部分 、混合題")
-    part7=text.find("第貳部分 、混合題")
+    part7=text.find("第參部分、非選擇題")
 
 
     first=text[part1:part2]
